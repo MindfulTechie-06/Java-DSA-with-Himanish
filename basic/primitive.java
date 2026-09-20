@@ -12,5 +12,6 @@ public class primitive{
         System.out.println("Double: " + e);
         System.out.println("Long: " + f);
         System.out.println("Boolean: " + g);
+        dd
     }
 }
